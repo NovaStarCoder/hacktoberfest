@@ -1,4 +1,4 @@
-# HactoberFest-2020-Events
+# HacktoberFest-2020-Events
 
 
 
